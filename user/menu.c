@@ -57,8 +57,9 @@
 #include "includes/advanced_aa_v.h"
 #include "includes/advanced_aa_f.h"
 #include "includes/scale2x_f.h"
-#include "includes/scale2x.h"
+#include "includes/scale2x_v.h"
 #include "includes/vflux_f.h"
+#include "includes/vflux_v.h"
 
 static const SceGxmProgram *const gxm_program_vflux_v = (SceGxmProgram*)&vflux_v;
 static const SceGxmProgram *const gxm_program_vflux_f = (SceGxmProgram*)&vflux_f;
